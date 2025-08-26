@@ -1,0 +1,15 @@
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\bin\Debug\net5.0\Task_4.exe
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\bin\Debug\net5.0\Task_4.deps.json
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\bin\Debug\net5.0\Task_4.runtimeconfig.json
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\bin\Debug\net5.0\Task_4.runtimeconfig.dev.json
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\bin\Debug\net5.0\Task_4.dll
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\bin\Debug\net5.0\Task_4.pdb
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.AssemblyInfoInputs.cache
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.AssemblyInfo.cs
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.csproj.CoreCompileInputs.cache
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.dll
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\refint\Task_4.dll
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.pdb
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\Task_4.genruntimeconfig.cache
+E:\DEPI_.Net\My_Tasks\C#\Task_4\Task_4\Task_4\obj\Debug\net5.0\ref\Task_4.dll
